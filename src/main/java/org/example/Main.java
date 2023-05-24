@@ -2,8 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        if (args.length == 0){
-        System.out.println("Hello lol!");
+        String message1 = "Hello QA";{
+        System.out.println(message1);
     }
 }
     }
